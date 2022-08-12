@@ -10,7 +10,7 @@ Zhang Zhang, Ruyi Tao<sup>\dagger</sup>, Yongzai Tao<sup>\dagger</sup>, Mingze Q
 (<sup>\*</sup>: Corresponding author) <br>
 [Download PDF](https://arxiv.org/pdf/2204.11852)<br>
 
-<img src="./img/fig22.png" width="500px" alt="">
+<img src="./fig22.png" width="500px" alt="">
 
 <br>
 
@@ -30,9 +30,3 @@ You can replicate the experiment for Boolean Network by simply running the file 
 python main.py
 ```
 
-
-### Cite
-If you use this code in your own work, please cite our paper:
-```
-
-```
